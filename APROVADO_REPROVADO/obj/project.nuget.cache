@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8u/BglWuRh/60rBQCsmRu7y8KID3T+L9OJLGUDa7eWOs1BAU1Ws/Be+ZTlUZkDVHRvtNRrVtYyjIkHCMJIPmgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ianno\\Desktop\\C# CÓDIGOS\\APROVADO_REPROVADO\\APROVADO_REPROVADO\\APROVADO_REPROVADO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ianno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
